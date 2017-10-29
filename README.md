@@ -1,2 +1,2 @@
 # Symlinker
-Symlinker By Dinu-Roots
+Symlinker it will bypass almost all error and can symlink the whole server
